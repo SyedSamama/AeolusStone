@@ -1,12 +1,7 @@
-- 👋 Greetings, I’m @AeolusStone, open minded and cool as a cucumber.
-
-- 👀 I’m interesting in learning how to program. I'm a knowledge seeker, who's a beginner and learning how to programe.
-
-- 🌱 I’m currently exploring the internet, and see if it can teach me how to programme. I have also, selected my course as a software engineer as well. 
-- I'll use all the help I can get.
-
-- 💞️ I’m looking to collaborate on ... Not decided yet :/  
-
+- 👋 Greetings, I’m @AeolusStone,
+- 👀 I’m interesting 
+- 🌱 I’m currently
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
